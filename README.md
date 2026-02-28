@@ -21,3 +21,9 @@ the brightness of the letters.
 I stumbelled on to the display while i was looking trough my electronic box. I thought
 it would be a fun ide to control with the help of my computer. Im also a big fan of
 piezo buzzer so i implemented it into the project as well.
+
+# In the future
+
+In the future im planning to put a chassi around the circuit so it looks more minimalistic.
+Im also planning to make the tiemr customizable with the help of buttons instead of using
+my computer.
